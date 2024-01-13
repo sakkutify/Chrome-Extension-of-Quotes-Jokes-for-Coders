@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Quotes & Jokes for Coders",
+    "version": "1.0",
+    "description": "A Chrome extension providing daily motivational quotes for coders.",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  

@@ -1,0 +1,33 @@
+/* styles.css */
+body {
+  width: 300px;
+  height: 160px auto;
+    font-family: cursive;
+    text-align: center;
+    background-color: floralwhite;
+    /* display: flex;
+    justify-content: center; */
+  }
+  
+  #quote-container {
+    
+    justify-content: center;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  #quote-text {
+    font-size: 16px;
+    margin-bottom: 13px;
+  }
+  
+  #refresh-button {
+    background-color: #137d7f;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  
